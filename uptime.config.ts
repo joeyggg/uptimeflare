@@ -10,7 +10,7 @@ const pageConfig = {
   title: "大妈 Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://test.com/', label: 'markdown', highlight: true },
+    { link: 'https://test.com/', label: 'markdown' },
   ],
   favicon: 'https://example.com/favicon.ico',
   logo: 'https://example.com/logo.svg',
