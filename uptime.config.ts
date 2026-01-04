@@ -12,6 +12,7 @@ const pageConfig = {
   links: [
     { link: 'https://test.com/', label: 'markdown', highlight: true },
   ],
+  customFooter: '',
 }
 
 const workerConfig = {
