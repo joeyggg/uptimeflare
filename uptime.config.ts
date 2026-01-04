@@ -12,7 +12,9 @@ const pageConfig = {
   links: [
     { link: 'https://test.com/', label: 'markdown', highlight: true },
   ],
-  customFooter: '',
+  favicon: 'https://example.com/favicon.ico',
+  logo: 'https://example.com/logo.svg',
+  customFooter: ''
 }
 
 const workerConfig = {
